@@ -1,0 +1,7 @@
+{
+  "name": "EcoInventory Pro",
+  "description": "A modern, white-and-green themed inventory management system with AI-powered product recognition and insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
